@@ -24,3 +24,11 @@ section {
 .text-l-blue{
     color: #0070D1;
 }
+
+
+.bg-takes-two{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
