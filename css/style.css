@@ -1,3 +1,22 @@
-section{
-    height: 30000px;
+main {
+    margin-top: 6rem;
+}
+
+section {
+    padding: 2rem 0;
+}
+
+.bg-jumbotron {
+    background-image: url(../img/jumbo-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+
+.p-jumbotron {
+    padding-top: 150px;
+}
+
+.bg-orange {
+    background-color: #CD3D0F;
 }
