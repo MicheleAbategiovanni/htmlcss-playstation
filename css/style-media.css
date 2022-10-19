@@ -6,10 +6,16 @@
     .img-md-w{
         width: 60px;
     }
+
+
 }
 
 @media screen and (min-width: 992px) {
     .img-lg-w{
         width: 100px;
+    }
+
+    .img-take-lg-w{
+        width: 120px;
     }
 }
