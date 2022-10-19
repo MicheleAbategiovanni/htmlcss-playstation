@@ -1,0 +1,5 @@
+@media screen and (min-width: 768px) {
+    .align-text-ps5{
+        align-items: last baseline;
+    }
+}
