@@ -32,6 +32,10 @@ section {
     background-position: top;
 }
 
+.bg-ps-now{
+    background-color: #161C3B;
+}
+
 .img-take-w{
     width: 300px;
 }
