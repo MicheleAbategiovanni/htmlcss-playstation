@@ -36,3 +36,8 @@ section {
 .img-take-w{
     width: 300px;
 }
+
+.logo-banner{
+    width: 50%;
+    height: auto;
+}
