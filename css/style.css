@@ -44,3 +44,12 @@ section {
     width: 50%;
     height: auto;
 }
+
+footer ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+footer ul li{
+    list-style: none;
+}
