@@ -6,50 +6,53 @@ section {
     padding: 2rem 0;
 }
 
+footer {
+    font-size: .7rem
+}
+
+footer ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+footer ul li {
+    list-style: none;
+}
+
 .bg-jumbotron {
     background-image: url(../img/jumbo-bg.png);
     background-size: cover;
     background-position: center;
 }
 
-.p-jumbotron {
-    padding-top: 150px;
-}
-
 .bg-orange {
     background-color: #CD3D0F;
 }
 
-.text-l-blue{
-    color: #0070D1;
-}
-
-
-.bg-takes-two{
+.bg-takes-two {
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
 }
 
-.bg-ps-now{
+.bg-ps-now {
     background-color: #161C3B;
 }
 
-.img-take-w{
+.p-jumbotron {
+    padding-top: 150px;
+}
+
+.text-l-blue {
+    color: #0070D1;
+}
+
+.img-take-w {
     width: 300px;
 }
 
-.logo-banner{
+.logo-banner {
     width: 50%;
     height: auto;
-}
-
-footer ul li a{
-    color: white;
-    text-decoration: none;
-}
-
-footer ul li{
-    list-style: none;
 }
