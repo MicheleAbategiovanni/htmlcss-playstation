@@ -1,5 +1,5 @@
 :root{
-    --bs-btn-hover-bg: #CD3D0F
+    --bs-btn-hover-bg: #CD3D0F;
 }
 
 main {
@@ -87,4 +87,8 @@ li.nav-item:focus .dropdown-content {
 
 .font-0_85{
     font-size: 0.85em;
+}
+
+.card{
+    background-color: transparent;
 }
