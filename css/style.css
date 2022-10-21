@@ -57,7 +57,7 @@ footer ul li {
     height: auto;
 }
 
-.nav-item:focus .dropdown-content {
+li.nav-item:focus .dropdown-content {
     display: flex;
     flex-direction: column;
 }
