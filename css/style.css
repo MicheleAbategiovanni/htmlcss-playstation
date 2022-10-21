@@ -84,3 +84,7 @@ li.nav-item:focus .dropdown-content {
     display: block;
     font-size: 13px;
 }
+
+.font-0_85{
+    font-size: 0.85em;
+}
