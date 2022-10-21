@@ -1,3 +1,7 @@
+:root{
+    --bs-btn-hover-bg: #CD3D0F
+}
+
 main {
     margin-top: 67px;
 }
@@ -79,4 +83,8 @@ li.nav-item:focus .dropdown-content {
     text-decoration: none;
     display: block;
     font-size: 13px;
+}
+
+.btn:hover{
+    background-color: yelow;
 }
