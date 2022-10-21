@@ -29,6 +29,12 @@ footer ul li {
     background-position: center;
 }
 
+.bg-returnal {
+    background-image: url(../img/returnal-card.png);
+    background-size: cover;
+    background-position: center;
+}
+
 .bg-orange {
     background-color: #CD3D0F;
 }
